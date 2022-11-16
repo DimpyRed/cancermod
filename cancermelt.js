@@ -1,6 +1,1 @@
-{
-	elements.cancer = {
-		tempHigh: 85,
-		stateHigh: "infection",
-	};
-},
+elements.cancer.stateHigh = "infection";
