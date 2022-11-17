@@ -17,7 +17,7 @@ elements.liquid_cancer = {
     tempHigh: 115,
     stateHigh: "plague",
     state: "liquid",
-    density: 1035,
+    density: 1095,
     category: "life",
     breakInto: ["dirty_water","dna","dna","dna","dna"]
 };
