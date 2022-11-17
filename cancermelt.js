@@ -1,5 +1,5 @@
 elements.liquid_cancer = {
-    color: ["#300b29","#5c114e","#870c71"],
+    color: ["#57144b","#6c1450","#960d74"],
     behavior: behaviors.LIQUID,
     reactions: {
         "cell": { "elem2":"cancer", "chance":0.005 },
