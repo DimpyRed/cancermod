@@ -26,7 +26,6 @@ elements.liquid_cancer = {
 elements.pool_water.reactions.liquid_cancer = elements.pool_water.reactions.cancer;
 elements.meat.reactions.liquid_cancer = elements.meat.reactions.cancer;
 elements.body.reactions.liquid_cancer = elements.body.reactions.cancer;
-elements.null.reactions.liquid_cancer = elements.null.reactions.cancer;
 elements.head.reactions.liquid_cancer = elements.head.reactions.cancer;
 elements.bleach.reactions.liquid_cancer = elements.bleach.reactions.cancer;
 elements.blood.reactions.liquid_cancer = elements.blood.reactions.cancer;
